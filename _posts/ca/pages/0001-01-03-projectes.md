@@ -154,7 +154,7 @@ permalink: /projectes
       <div class="col-md-12">
         <div class="block">
           <h2>Tens un projecte en ment?</h2>
-          <p>Si estàs pensant en una reforma integral, vols un projecte fer per una professional o creus que et podria ajudar a treure-li més profit a cata teva o al teu negoci...</p>
+          <p>Si estàs pensant en una reforma integral, vols un projecte fet per una professional o creus que et podria ajudar a treure-li més profit a casa teva o al teu negoci...</p>
           <a class="btn btn-default btn-call-to-action" href="#" >Explica'm la teva història</a>
         </div>
       </div>
